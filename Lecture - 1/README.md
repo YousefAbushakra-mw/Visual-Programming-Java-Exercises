@@ -1,13 +1,20 @@
-# Lecture 01
+# Visual Programming – Java Exercises
 
-Visual Programming - Java Exercises
+**Student:** Yousef Mohammed Abushakra
 
-## Exercise 01
+**Course:** Visual Programming
 
+**IDE:** NetBeans
+
+## Lecture 01
+
+### Exercise 01
+
+**Question:**
 Write a GUI application to sum two numbers.
 
-**Question Type:** GUI Programming - Basic Arithmetic
+**Question Type:** GUI Programming – Basic Arithmetic
 
 **Programming Language:** Java
 
-**IDE:** NetBeans
+**Solution:** `SolExerciseLecture1.java`
