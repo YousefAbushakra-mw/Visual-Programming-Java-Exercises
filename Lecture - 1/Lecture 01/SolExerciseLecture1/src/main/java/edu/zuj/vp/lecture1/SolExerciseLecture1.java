@@ -27,6 +27,8 @@ public class SolExerciseLecture1 {
         int sum = n1+n2;
         
         JOptionPane.showMessageDialog(null,"sum = "+sum);
+
+        System.exit(0);
         
     }
 }
