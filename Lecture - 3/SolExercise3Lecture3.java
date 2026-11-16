@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SolExercise3Lecture3 {
     
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("please enter the number of n for reverse triangle ???");
         Scanner s = new Scanner(System.in);  
         int n = s.nextInt();
